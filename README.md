@@ -1,16 +1,16 @@
 # a Glimpse into Abstract Algebra
 
-Chzzk 스트리머 연떠[https://chzzk.naver.com/2468c1fe1c2844da02a52dfb133494a2]님의 2025년 봄학기 라이브 강의 <현대대수학> 예제 풀이집입니다.
+Chzzk 스트리머 [연떠](https://chzzk.naver.com/2468c1fe1c2844da02a52dfb133494a2)님의 2025년 봄학기 라이브 강의 <현대대수학> 예제 풀이집입니다.
 
 개인적인 기록을 위해 repository를 만들었습니다.
 
 ## 강의록 링크
 
-강의록은 연떠님의 팬카페[https://cafe.naver.com/yeontt]에 업로드 되어 있습니다.
+강의록은 연떠님의 [팬카페](https://cafe.naver.com/yeontt)에 업로드 되어 있습니다.
 
-- Syllabus[https://cafe.naver.com/yeontt/207]
+- [Syllabus](https://cafe.naver.com/yeontt/207)
 
-1. 방정식과 대수학 강의록[https://cafe.naver.com/yeontt/234]
+1. 방정식과 대수학 [강의록](https://cafe.naver.com/yeontt/234)
    1. 근의 공식과 방정식 
    2. 대칭성과 방정식
    3. 셈과 방정식
